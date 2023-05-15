@@ -1,0 +1,43 @@
+.hone{
+    background-color:bisque;
+    width: 100%;
+    height: 100px;
+   
+    
+}
+.ram{
+    float: right;
+    margin-top: 30px;
+
+}
+a{
+    padding:20px ;
+    text-decoration: none;
+}
+.main{
+    width: 100%;
+    height: 600px;
+   
+    display: flex;
+    background-image: url(https://media.istockphoto.com/id/1305012465/vector/internet-connection-abstract-sense-of-science-and-technology-graphic-design-background.jpg?s=1024x1024&w=is&k=20&c=1-h_8yO1UZ8jEfpt7_f7_72vOgC6E2aruaahQB_8BWY=);
+    background-size: 100%;
+}
+
+.maina{
+    width: 49%;
+    height: 70%;
+    margin-top:140px;
+    margin-left: 20px;
+}
+
+.mainb{
+    width: 50%;
+    height: 100%;
+    color: aqua;
+    margin-top: 200px;
+    
+}
+img{
+    border-radius: 30%;
+    
+}
